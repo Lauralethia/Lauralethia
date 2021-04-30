@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lauralethia
-- 👀  I am interested in the physiological basis and development of subjectivity. 
-- 🌱 I work with computational tools over physiological data such as MRI/fMRI, PET, EEG, etc, and subjective characteristics as behavioral, NPS, or subjective reports.
+- ✨ I work on drugs with computational cognitive neuroscience tools
 - 📫 mail: Lauralethia@gmail.com
 
 <!---
