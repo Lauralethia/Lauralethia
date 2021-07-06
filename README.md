@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Lauralethia
-- ✨ I work on drugs with computational cognitive neuroscience tools
 - 📫 mail: Lauralethia@gmail.com
 
 <!---
